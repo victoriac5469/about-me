@@ -6,7 +6,7 @@ You can reach me at victoriac5469@hstat.org, this is my school email.
 
 I am a sophomore from High School of Telecommunication Arts and Technology.
 
-My favorite subject is history and chemistry.
+My favorite subjects are history and chemistry.
 
 I like science!
 
