@@ -1,10 +1,12 @@
-# About Me
+# About Me  
+
+#### Contact information  
 
 My name is Victoria.
 
 You can reach me at victoriac5469@hstat.org, this is my school email.
 
-I am a sophomore from High School of Telecommunication Arts and Technology.
+I'm a sophomore from [HSTAT](https://www.hstat.org/).
 
 My favorite subjects are history and chemistry.
 
