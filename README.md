@@ -34,7 +34,7 @@ My favorite season is _fall_ because the weather is _just right_ for me.
 ---
 
 #### _Current State_  
-I'm a beginner of markdown syntax and trying to get used to this computer language 
+I'm a beginner of markdown syntax and I just learned something new
  ``` html
  type *text* the text will be bold
  
